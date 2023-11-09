@@ -1,4 +1,4 @@
-// This is a table task. You can use this editor as a playground
+// You can experiment here, it won’t be checked
 
 public class Task {
   public static void main(String[] args) {
